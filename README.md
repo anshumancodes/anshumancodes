@@ -1,9 +1,3 @@
-### Hi there 👋
-
-
-
-
-
 ### Hi there 👋,Anshuman
 #### I am a web developer
 ![I am a web developer](https://github.com/anshumancodes/snapax_imgs/blob/main/Add%20a%20heading.png?raw=true)
