@@ -10,7 +10,7 @@ my instagram (link)
 Skills:
   . 💻 HTML , CSS , JS
 
-- 🔭 I’m currently working on tuneconnect.in 
+- 🔭 I’m currently working on https://tuneconnect.in/
 - 🌱 I’m currently learning Js 
 - ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anshumancodes)
 
