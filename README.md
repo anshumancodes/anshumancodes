@@ -1,4 +1,4 @@
-![I am a web developer](https://github.com/anshumancodes/snapax_imgs/blob/main/Add%20a%20heading.png?raw=true)
+![I am a web developer](https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg)
 <hr>
 
 ### Hi there 👋,Anshuman
