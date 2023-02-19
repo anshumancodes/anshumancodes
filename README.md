@@ -4,11 +4,11 @@
 ### Hi there 👋,Anshuman
 #### I am a web developer
 
-I'am Anshuman from India , and I am a beginner in web development. you can check out my twitter at https://twitter.com/anshumancodes_?t=Ht2Psv2x71gijkWJm0YhxA&s=09 or
-my instagram (link) 
+I'am Anshuman from India , and I am a beginner in web development. you can check out my twitter at https://twitter.com/anshumancodes or 
+my instagram : https://instagram.com/anshumancodes
 
 Skills:
-  . 💻 HTML , CSS , JS
+  . 💻 HTML , CSS , JS ,React Js
 
 - 🔭 I’m currently working on https://tuneconnect.in/
 - 🌱 I’m currently learning Js 
