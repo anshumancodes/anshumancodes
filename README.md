@@ -1,21 +1,52 @@
-![I am a web developer](https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg)
-<hr>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-### Hi there 👋,Anshuman
-#### I am a web developer
+###
 
-I'am Anshuman from India , and I am a beginner in web development. you can check out my twitter at https://twitter.com/anshumancodes or 
-my instagram : https://instagram.com/anshumancodes
+<p align="left">My name is Anshuman Praharaj and I'm a self-taught developer, from India</p>
 
-Skills:
-  . 💻 HTML , CSS , JS ,React Js
+###
 
-- 🔭 I’m currently working on https://tuneconnect.in/
-- 🌱 I’m currently learning Js 
-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anshumancodes)
+<h2 align="left">About me</h2>
+<br>
+Hello there 👋 ! I am self-taught developer from India.I am learning to code to build some cool stuff with my knowledge and skills,And Looking forward to contribute to open-source
+
+###
+
+<p align="left">📚 I'm currently learning Python and Javascript!<br>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="Python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+ 
+  
+</div>
+
+<br>
+<br>
+
+<h2 align="left">My socials</h2>
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anshumancodes)      [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/anshumancodes/)     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/anshumancodes_)  
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/anshumancodes/count.svg?"  />
+</div>
+
+
+###
 
 
 
