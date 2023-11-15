@@ -1,16 +1,45 @@
-# 💫 About Me:
-Hey! I am Anshuman .am a self-taught developer.<br><br>I mostly  work with python and javascript<br><br><br>
+<div align="center">
+  <img src="https://raw.githack.com/anshumancodes/img-vault/main/readme.png" alt="Image Alt Text" width="500">
+</div>
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/anshumancdx) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anshumancdx) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/anshumancdx) 
+___
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-# 📊 Stats:
----
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumancodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h2 align="center"> Hi, I'm Anshuman! 👋</h2>
+<p align="center">Computer science student and web developer</p>
 
 
+<p align="left"> <a href="https://twitter.com/anshumancdx" target="blank"><img src="https://img.shields.io/twitter/follow/anshumancdx?logo=twitter&style=for-the-badge" alt="anshumancdx" /></a> </p>
+<p align="left"> <a href="https://hashnode.com/@anshumancodes" target="blank"><img src="https://img.shields.io/badge/hashnode-anshumancodes-blue?logo=hashnode&style=for-the-badge" alt="anshumancodes on Hashnode" /></a> </p>
 
+
+<br> <br>
+- 🌱 I’m currently learning **Web development** and participating in hackathons
+- 💬 Ask me about **Python, Javascript nd programming in general**
+- 📫 How to reach me:
+ [Twitter!](https://twitter.com/anshumancdx) or 
+ [ Send an email !](mailto:anshumanprof01)
+<br> <br>
+<h4>✍️ Read my blogs on :</h4>
+
+- [Medium!](https://medium.com/@anshupraharaj15)
+- [Hashnode!](https://hashnode.com/@anshumancodes)
+- [anshumancdx!](https://anshumancodes.live)
+
+
+<h4>languages & tools I use :</h4>
+<div align="left">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a>  
+<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>   
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+</div>
+<br> <br>
+<h4>Github Stats</h4>
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=anshumancodes&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
