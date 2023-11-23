@@ -15,7 +15,7 @@ ___
 
 <br> <br>
 - 🌱 I’m currently learning **Web development** and participating in hackathons
-- 💬 Ask me about **Python, Javascript nd programming in general**
+- 💬 Ask me about **Python, Javascript or anything in general**
 - 📫 How to reach me:
  [Twitter!](https://twitter.com/anshumancdx) or 
  [ Send an email !](mailto:anshumanprof01)
