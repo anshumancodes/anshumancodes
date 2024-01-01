@@ -42,4 +42,5 @@ ___
 </div>
 <br> <br>
 <h4>Github Stats</h4>
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=anshumancodes&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="left"></div>  
+[![anshumancdx's GitHub | Stats](https://stats.quine.sh/anshumancdx/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=anshumancdx)
