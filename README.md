@@ -18,13 +18,13 @@ ___
 - 💬 Ask me about **Python, Javascript or anything in general**
 - 📫 How to reach me:
  [Twitter!](https://twitter.com/anshumancdx) or 
- [ Send an email !](mailto:anshumanprof01)
+ [ Send an email !](mailto:anshumanprof01@gmail.com)
 <br> <br>
 <h4>✍️ Read my blogs on :</h4>
 
 - [Medium!](https://medium.com/@anshupraharaj15)
-- [Hashnode!](https://hashnode.com/@anshumancodes)
-- [anshumancdx!](https://anshumancodes.live)
+- [Hashnode!](https://hashnode.com/@anshumancdx)
+- [anshumancdx!](https://anshumancdx.xyz/)
 
 
 <h4>languages & tools I use :</h4>
@@ -43,4 +43,4 @@ ___
 <br> <br>
 <h4>Github Stats</h4>
 <div align="left"></div>  
-[![anshumancdx's GitHub | Stats](https://stats.quine.sh/anshumancdx/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=anshumancdx)
+
