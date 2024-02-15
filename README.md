@@ -23,7 +23,7 @@ ___
 <h4>✍️ Read my blogs on :</h4>
 
 - [Medium!](https://medium.com/@anshupraharaj15)
-- [Hashnode!](https://hashnode.com/@anshumancdx)
+- [Hashnode!](https://anshumancdx.hashnode.dev/)
 - [anshumancdx!](https://anshumancdx.xyz/)
 
 
