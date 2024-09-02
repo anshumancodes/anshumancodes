@@ -1,46 +1,53 @@
-<div align="center">
-  <img src="https://raw.githack.com/anshumancodes/img-vault/main/readme.png" alt="Image Alt Text" width="500">
+### Hey there 👋 I'm Anshuman
+
+<pre style="font-family: 'Courier New', monospace;">I abuse caffeine and write code
+Mostly MERN and Python 
+Currently learning CS concepts and building things </pre>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
 </div>
 
 
-___
+socials
 
-<h2 align="center"> Hi, I'm Anshuman! 👋</h2>
-<p align="center">Computer science student and web developer</p>
-
-
-<p align="left"> <a href="https://twitter.com/anshumancdx" target="blank"><img src="https://img.shields.io/twitter/follow/anshumancdx?logo=twitter&style=for-the-badge" alt="anshumancdx" /></a> </p>
-<p align="left"> <a href="https://hashnode.com/@anshumancodes" target="blank"><img src="https://img.shields.io/badge/hashnode-anshumancodes-blue?logo=hashnode&style=for-the-badge" alt="anshumancodes on Hashnode" /></a> </p>
+<div align="left">  <a href="https://x.com/anshumancdx" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="32" alt="Twitter logo" /> </a> <a href="https://discord.com/users/thelazymonkee" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="32" alt="Discord logo" /> </a> <a href="https://anshumancdx.xyz" target="_blank">  <a href="anshumancdx.xyz" target="_blank"> website 🌐 </a></div>
 
 
-<br> <br>
-- 🌱 I’m currently learning **Web development** and participating in hackathons
-- 💬 Ask me about **Python, Javascript or anything in general**
-- 📫 How to reach me:
- [Twitter!](https://twitter.com/anshumancdx) or 
- [ Send an email !](mailto:anshumanprof01@gmail.com)
-<br> <br>
-<h4>✍️ Read my blogs on :</h4>
-
-- [Medium!](https://medium.com/@anshupraharaj15)
-- [Hashnode!](https://anshumancdx.hashnode.dev/)
-- [anshumancdx!](https://anshumancdx.xyz/)
 
 
-<h4>languages & tools I use :</h4>
-<div align="left">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>   
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-</div>
-<br> <br>
-<h4>Github Stats</h4>
-<div align="left"></div>  
 
+###
+<img height="8" />
+<details>
+  
+<summary>⚡️ stats 🤓☝️ bcx why not  </summary>
+<br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumancodes&layout=compact&hide=css,html)
+
+![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshumancodes&count_private=true&show_icons=true&theme=onedark)
+
+</details>
+
+read my blogs : [https://anshumancdx.xyz/blogs](https://anshumancdx.xyz/blogs)
