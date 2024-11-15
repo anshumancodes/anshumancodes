@@ -39,8 +39,7 @@ socials
 
 ###
 <img height="8" />
-<details>
-  
+
 <summary>⚡️ stats 🤓☝️ bcx why not  </summary>
 <br />
 
@@ -48,6 +47,5 @@ socials
 
 ![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshumancodes&count_private=true&show_icons=true&theme=onedark)
 
-</details>
 
 read my blogs : [https://anshumancdx.xyz/blogs](https://anshumancdx.xyz/blogs)
