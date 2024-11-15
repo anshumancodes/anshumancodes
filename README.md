@@ -1,6 +1,6 @@
 ### Hey there 👋 I'm Anshuman
 
-<pre style="font-family: 'Courier New', monospace;">I abuse caffeine and write code
+<pre style="font-family: 'Courier New', monospace;">
 Mostly MERN and Python 
 Currently learning CS concepts and building things </pre>
 
