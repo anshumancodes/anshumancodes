@@ -43,7 +43,7 @@ socials
 <summary>⚡️ stats 🤓☝️ bcx why not  </summary>
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumancodes&layout=compact&hide=css,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumancodes&layout=compact&hide=css,html) 
 
 ![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshumancodes&count_private=true&show_icons=true&theme=onedark)
 
