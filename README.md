@@ -28,17 +28,12 @@ Currently learning CS concepts and building things </pre>
 </div>
 
 
-socials
-
-<div align="left">  <a href="https://x.com/anshumancdx" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="32" alt="Twitter logo" /> </a> <a href="https://discord.com/users/thelazymonkee" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="32" alt="Discord logo" /> </a> <a href="https://anshumancdx.xyz" target="_blank">  <a href="anshumancdx.xyz" target="_blank"> website 🌐 </a></div>
 
 
+### Connect with me
 
+- **Twitter:** https://x.com/anshumancdx
+- **Discord:** thelazymonkee
+- **Website:** https://anshumancdx.xyz
+- **Read my blogs:** [anshumancdx.xyz/blog](https://anshumancdx.xyz/blog)
 
-
-###
-<img height="8" />
-
-
-
-read my blogs : [https://anshumancdx.xyz/blog](https://anshumancdx.xyz/blog)
