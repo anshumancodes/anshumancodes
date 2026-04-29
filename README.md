@@ -37,6 +37,6 @@ Currently learning CS concepts and building things </pre>
 
 
 
-  <img src="https://media1.tenor.com/m/WmAC3T2Rk1wAAAAC/cat-dance.gif" width="800" />
+ <img src="https://media1.tenor.com/m/WmAC3T2Rk1wAAAAd/cat-dance.gif" width="900" height="500" />
 
 
