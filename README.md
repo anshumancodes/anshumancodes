@@ -28,12 +28,15 @@ Currently learning CS concepts and building things </pre>
 </div>
 
 
-
-
 ### Connect with me
 
 - **Twitter:** https://x.com/anshumancdx
 - **Discord:** thelazymonkee
 - **Website:** https://anshumancdx.xyz
 - **Read my blogs:** [anshumancdx.xyz/blog](https://anshumancdx.xyz/blog)
+
+
+
+  <img src="https://media1.tenor.com/m/WmAC3T2Rk1wAAAAC/cat-dance.gif" width="800" />
+
 
