@@ -19,5 +19,3 @@ I enjoy working on backend systems, AI integrations, developer tooling, and SaaS
 - Discord: @ thelazymonkee
 - Website: [anshumancdx.xyz](https://anshumancdx.xyz)
 - Blog: [blog](https://anshumancdx.xyz/blog)
-
-<img src="https://media1.tenor.com/m/WmAC3T2Rk1wAAAAd/cat-dance.gif" width="900" height="500" />
