@@ -19,3 +19,6 @@ I enjoy working on backend systems, AI integrations, developer tooling, and SaaS
 - Discord: @ thelazymonkee
 - Website: [anshumancdx.xyz](https://anshumancdx.xyz)
 - Blog: [blog](https://anshumancdx.xyz/blog)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumancodes&layout=compact&theme=tokyonight)
+
