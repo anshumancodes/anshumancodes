@@ -20,5 +20,5 @@ I enjoy working on backend systems, AI integrations, developer tooling, and SaaS
 - Website: [anshumancdx.xyz](https://anshumancdx.xyz)
 - Blog: [blog](https://anshumancdx.xyz/blog)
 
-![Top Languages](https://gitcard.anshumancdx.xyz/anshumancodes)
+![Top Languages](https://gitcard.anshumancdx.xyz/anshumancodes?bg=transparent)
 
